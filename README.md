@@ -78,7 +78,7 @@ It allows users to search any city and get <b>real-time weather updates</b> incl
 
 <pre><code>
 async function checkWeather(city) {
-  const response = await fetch(apiUrl + city + `&appid=${apiKey}`);
+  const response = await fetch(apiUrl + city + `&appid=${'ff23ba4b0cb3c26b2600b066e1b696da'}`);
 }
 </code></pre>
 
