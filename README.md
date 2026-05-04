@@ -24,7 +24,7 @@ It allows users to search any city and get <b>real-time weather updates</b> incl
 
 <h2>📸 Preview</h2>
 <p align="center">
-  <img src="preview.png" width="350" alt="Weather App Preview"/>
+  <img src="../preview.png" width="350" alt="Weather App Preview"/>
 </p>
 
 <hr>
